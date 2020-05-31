@@ -20,7 +20,7 @@
 - [Support](#support)
 - [License](#license)
 
-# Repository Description Goes Here
+### Repository Description Goes Here
 
 > Subtitle or Short Description Goes Here
 
@@ -28,7 +28,7 @@
 
 > include terms/tags that can be searched
 
-**Badges will go here**
+## **Badges will go here**
 
 - build status
 - issues (waffle.io maybe)
