@@ -2,7 +2,7 @@
 
 <a href="https://github.com/VsIG-official/README-Template/blob/master/LogoFinalWhite.png"><img src="https://github.com/VsIG-official/README-Template/blob/master/LogoFinalWhite.png" title="VsIG" alt="VsIG"></a>
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+***INSERT GRAPHIC HERE (include hyperlink in image)(optional)***
 
 ## Table of Contents (Optional)
 
